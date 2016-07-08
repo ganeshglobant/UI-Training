@@ -102,6 +102,8 @@ nav li {
   padding: 0px;
   display: inline-flex;
   float: left; }
+  .sub-menu-ul li {
+    display: inline-table; }
 
 li {
   padding-right: 15px;

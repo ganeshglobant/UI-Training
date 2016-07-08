@@ -139,7 +139,10 @@ nav li {
 .sub-menu-ul{
 	padding: 0px;
 	display: inline-flex;
-    float: left;
+    float: left; 
+    li{
+     display: inline-table;
+    }
 }
 li{ 
     list-style-type: none;

@@ -109,6 +109,9 @@ nav li a {
   display: inline-flex;
   float: left;
 }
+.sub-menu-ul li {
+  display: inline-table;
+}
 li {
   padding-right: 15px;
   list-style-type: none;
