@@ -209,6 +209,7 @@ li a {
   color: #fff;
   cursor: pointer;
   font-weight: bold;
+  width: 100%;
   text-transform: uppercase;
 }
 .left-aside-ul {
